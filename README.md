@@ -30,3 +30,23 @@ O pipeline foi construído "do zero" utilizando `NumPy` para operações matrici
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/ArturDeLima/Classic-IP-Instance-Segmentation-Melanoma-.git](https://github.com/ArturDeLima/Classic-IP-Instance-Segmentation-Melanoma-.git)
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+3. Abra o Jupyter Notebook:
+   ```bash
+    jupyter notebook trabalho_pdi.ipynb
+
+
+## Demonstração de funcionamento
+
+<img width="1000" height="607" alt="image" src="https://github.com/user-attachments/assets/32ca8d56-c968-44e3-8abe-7ea117874bc3" />
+
+
+Autor: [Artur Lima]
+Disciplina: Processamento de Imagens
+
+
+
+
+
